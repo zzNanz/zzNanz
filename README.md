@@ -6,6 +6,9 @@ Olá! Meu nome é **Rennan Carlos**. Sou um estudante de desenvolvimento de soft
 ### 🛠️ Tecnologias e Ferramentas
 Atualmente estudo e trabalho com as seguintes tecnologias:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 - **Linguagens**: Java, JavaScript, Python, C, C++, C#
 - **Desenvolvimento Web**: HTML, CSS, Node.js
 
