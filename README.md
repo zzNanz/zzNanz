@@ -3,11 +3,10 @@
 ### 🚀 Sobre mim
 Olá! Meu nome é **Rennan Carlos**. Sou um estudante de desenvolvimento de software que começou a aprender programação por conta própria e sigo estudando constantemente. Ainda não possuo formação superior, mas estou sempre buscando novos conhecimentos para aprimorar minhas habilidades.
 
-### 🛠️ Tecnologias e Ferramentas
-Atualmente estudo e trabalho com as seguintes tecnologias:
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzNanz&show_icons=true&theme=merko)
 
+### 🛠️ Tecnologias e Ferramentas
+Atualmente estudo e trabalho com as seguintes tecnologias:
 
 - ### Linguagens que eu estou estudando:
 
