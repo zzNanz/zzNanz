@@ -8,6 +8,10 @@ Olá! Meu nome é **Rennan Carlos**. Sou um estudante de desenvolvimento de soft
 ### 🛠️ Tecnologias e Ferramentas
 Atualmente estudo e trabalho com as seguintes tecnologias:
 
+### 🎓 Certificações
+- **Formação em Lógica de Programação** | [Ada Tech](https://ada.tech/) 
+  - 🏆 [Visualizar Certificado]https://ada.tech/certificado?code=20dc5cdd-ed08-84e8-42d2-29032f5e3810
+
 - ### Linguagens que eu estou estudando:
 
 <div style="display: block">
