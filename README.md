@@ -29,7 +29,7 @@ Aplicação que consome uma API de meteorologia e mostra as condições climáti
 - **Stack:** HTML5, CSS3 (layout responsivo), JavaScript ES6+, OpenWeatherMap API
 - **Destaques:** busca por cidade, exibição de temperatura, umidade, pressão e vento, interface que muda conforme o clima (sol, chuva, nuvens)
 - **Conceitos aplicados:** requisições assíncronas com Fetch e async/await, tratamento de erros (cidade não encontrada) e manipulação de JSON
-- 🔗 [Ver repositório](https://github.com/zzNanz/NOME-DO-REPO) · [Ver online](https://zznanz.github.io/NOME-DO-REPO)
+- 🔗 [Ver repositório](https://github.com/zzNanz/Clima)
 
 > Mais projetos em breve. 🚧
 
