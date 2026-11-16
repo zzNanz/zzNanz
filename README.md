@@ -13,7 +13,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com foco em **back-end e aplicações web full-stack**. Aprendi a programar de forma autodidata e hoje uno a faculdade com projetos próprios, construindo sistemas completos do banco de dados até a interface.
 
-Gosto de código **tipado, organizado e testado**: autenticação com JWT, camadas bem separadas, transações SQL e APIs REST documentadas. Estou em busca de um **estágio** onde eu possa contribuir com o time e evoluir junto com desenvolvedores mais experientes.
+Gosto de código **tipado, organizado e testado**: autenticação com JWT, camadas bem separadas, transações SQL e APIs REST documentadas.
 
 ## 🚀 Projetos em destaque
 
