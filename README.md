@@ -19,8 +19,9 @@ Gosto de código **tipado, organizado e testado**: autenticação com JWT, camad
 
 ### 🏋️ FitBrasil — Projeto de gerenciamento de treinos
 Projeto desenvolvido na faculdade, com foco em organização de treinos e usuários.
-- **Stack:** PREENCHER (ex.: Node.js, TypeScript, MySQL)
-- **Destaques:** PREENCHER (2 ou 3 funcionalidades principais)
+- **Stack:** Javascript, Typescript, MySql, HTML, CSS
+- **Destaques:** Montar treino sem complicação
+Treinar bem não deveria ser complicado. O FitBrasil simplifica o planejamento de treinos e ajuda a saber se o treino que você montou é bom, em vez de depender de achismo e de pesquisas aprofundadas. Projeto desenvolvido na faculdade no primeiro periodo.
 - 🔗 [Ver repositório](https://github.com/zzNanz/Projeto-A3-Backup)
 
 > Mais projetos em breve. 🚧
