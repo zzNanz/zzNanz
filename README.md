@@ -24,6 +24,13 @@ Projeto desenvolvido na faculdade, com foco em organização de treinos e usuár
 Treinar bem não deveria ser complicado. O FitBrasil simplifica o planejamento de treinos e ajuda a saber se o treino que você montou é bom, em vez de depender de achismo e de pesquisas aprofundadas. Projeto desenvolvido na faculdade no primeiro periodo.
 - 🔗 [Ver repositório](https://github.com/zzNanz/Projeto-A3-Backup)
 
+### 🌤️ Clima Agora — Dashboard meteorológico
+Aplicação que consome uma API de meteorologia e mostra as condições climáticas de qualquer cidade em tempo real.
+- **Stack:** HTML5, CSS3 (layout responsivo), JavaScript ES6+, OpenWeatherMap API
+- **Destaques:** busca por cidade, exibição de temperatura, umidade, pressão e vento, interface que muda conforme o clima (sol, chuva, nuvens)
+- **Conceitos aplicados:** requisições assíncronas com Fetch e async/await, tratamento de erros (cidade não encontrada) e manipulação de JSON
+- 🔗 [Ver repositório](https://github.com/zzNanz/NOME-DO-REPO) · [Ver online](https://zznanz.github.io/NOME-DO-REPO)
+
 > Mais projetos em breve. 🚧
 
 ## 🛠️ Tecnologias
