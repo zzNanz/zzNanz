@@ -21,7 +21,7 @@ Gosto de código **tipado, organizado e testado**: autenticação com JWT, camad
 Projeto desenvolvido na faculdade, com foco em organização de treinos e usuários.
 - **Stack:** PREENCHER (ex.: Node.js, TypeScript, MySQL)
 - **Destaques:** PREENCHER (2 ou 3 funcionalidades principais)
-- 🔗 [Ver repositório](https://github.com/zzNanz/NOME-DO-REPO)
+- 🔗 [Ver repositório](https://github.com/zzNanz/Projeto-A3-Backup)
 
 > Mais projetos em breve. 🚧
 
